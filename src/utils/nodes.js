@@ -8,10 +8,11 @@ const nodes = [
       </div>
     },
     position: { x: 0, y: 0 },
-    // style: {
-    //   width: 170,
-    //   height: 140,
-    // },
+    style: {
+      // width: 170,
+      // height: 140,
+      backgroundColor: "red",
+    },
   },
   {
     id: 'B',

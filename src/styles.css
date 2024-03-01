@@ -7,9 +7,3 @@ html, body, #root {
     box-sizing: border-box;
     font-family: sans-serif;
   }
-
-  .companyInfoContainer{
-    background-color: aqua;
-    color: white;
-  }
-  

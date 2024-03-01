@@ -5,11 +5,11 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-organizational-chart": "^2.2.1",
     "react-scripts": "^5.0.0",
     "reactflow": "11.10.4"
   },
   "main": "/index.js",
-  "devDependencies": {},
   "browserslist": {
     "production": [
       ">0.2%",
