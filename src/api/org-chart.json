@@ -54,7 +54,8 @@
         "name": "Heath Compnay",
         "attributes": {
           "age": "25"
-        }
+        },
+        "children": []
       },
       {
         "name": "Roger Compnay",

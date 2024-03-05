@@ -60,3 +60,17 @@
 .node__leaf {
     stroke: none !important;
 }
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+}
+.buttonContainer > .expandOrCollapseBtn {
+    
+}
+.buttonContainer > .editBtm {
+
+}
+.buttonContainer > .addNewChildBtn {
+
+}
